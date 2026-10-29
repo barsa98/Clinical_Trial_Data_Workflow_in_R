@@ -101,10 +101,12 @@ clinical-trial-data-workflow-in-R/
 │   └── adam/
 ├── R/
 │   ├── 01_import_and_initial_data_exploration.R
-│   ├── 02_clean_and_standardize.R
-│   ├── 03_data_quality_checks.R
-│   ├── 04_create_sdtm.R
-│   └── 05_create_adam.R
+│   ├── 02_investigate_missing_data.R
+│   ├── 03_clean_and_standardize.R
+│   ├── 04_data_quality_checks.R
+│   ├── 05_create_sdtm.R
+│   └── 06_create_adam.R
+
 └── reports/
 ```
 
