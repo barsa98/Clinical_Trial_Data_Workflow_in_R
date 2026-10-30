@@ -1,0 +1,5 @@
+"Dataset","Missing_Subject_IDs","Duplicate_Subject_IDs","Record_ID_Mismatches","Subject_ID_Mismatches"
+"Adverse_Events",0,0,0,0
+"Baseline_and_Demographics",0,0,0,0
+"Concomitant_Medication",0,0,0,0
+"End_of_Study",0,0,0,0
