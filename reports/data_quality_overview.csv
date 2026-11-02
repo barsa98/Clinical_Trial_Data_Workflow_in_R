@@ -1,0 +1,11 @@
+"Dataset","Rows","Columns","Duplicate_Rows","Missing_Cells","Duplicate_Record_IDs"
+"Adverse_Events",120,35,0,2344,0
+"Baseline_and_Demographics",120,13,0,139,0
+"Clinical_Assessment",120,21,0,0,0
+"Concomitant_Medication",120,42,0,1221,0
+"Drug_Accountability",120,49,0,84,0
+"Eligibility_Assessment",120,10,0,0,0
+"End_of_Study",120,11,0,109,0
+"Laboratory_Results",120,95,0,1155,0
+"Randomization",120,8,0,0,0
+"Screening_and_InformedConsent",120,13,0,175,0
