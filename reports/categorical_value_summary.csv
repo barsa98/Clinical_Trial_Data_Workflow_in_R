@@ -1,0 +1,616 @@
+"Dataset","Variable","Value","Count"
+"Adverse_Events","any_adverse_event","No",98
+"Adverse_Events","any_adverse_event","Yes",22
+"Adverse_Events","adverse_event_term","Abdominal Pain",4
+"Adverse_Events","adverse_event_term","Back Pain",1
+"Adverse_Events","adverse_event_term","Diarrhea",1
+"Adverse_Events","adverse_event_term","Fatigue",1
+"Adverse_Events","adverse_event_term","Headache",4
+"Adverse_Events","adverse_event_term","Hypoglycemia",3
+"Adverse_Events","adverse_event_term","Nausea",4
+"Adverse_Events","adverse_event_term","Upper Respiratory Infection",2
+"Adverse_Events","adverse_event_term","Vomiting",2
+"Adverse_Events","start_date_ad","02-02-2026",3
+"Adverse_Events","start_date_ad","17-01-2026",1
+"Adverse_Events","start_date_ad","20-01-2026",2
+"Adverse_Events","start_date_ad","23-01-2026",3
+"Adverse_Events","start_date_ad","24-01-2026",2
+"Adverse_Events","start_date_ad","25-01-2026",1
+"Adverse_Events","start_date_ad","27-01-2026",4
+"Adverse_Events","start_date_ad","28-01-2026",2
+"Adverse_Events","start_date_ad","29-01-2026",2
+"Adverse_Events","start_date_ad","30-01-2026",1
+"Adverse_Events","start_date_ad","31-01-2026",1
+"Adverse_Events","end_date_ad","01-02-2026",1
+"Adverse_Events","end_date_ad","02-02-2026",2
+"Adverse_Events","end_date_ad","03-02-2026",2
+"Adverse_Events","end_date_ad","04-02-2026",1
+"Adverse_Events","end_date_ad","05-02-2026",1
+"Adverse_Events","end_date_ad","06-02-2026",2
+"Adverse_Events","end_date_ad","07-02-2026",2
+"Adverse_Events","end_date_ad","20-01-2026",1
+"Adverse_Events","end_date_ad","23-01-2026",1
+"Adverse_Events","end_date_ad","25-01-2026",1
+"Adverse_Events","end_date_ad","27-01-2026",1
+"Adverse_Events","end_date_ad","28-01-2026",1
+"Adverse_Events","end_date_ad","29-01-2026",1
+"Adverse_Events","end_date_ad","30-01-2026",1
+"Adverse_Events","end_date_ad","31-01-2026",4
+"Adverse_Events","severity","Mild",10
+"Adverse_Events","severity","Moderate",11
+"Adverse_Events","severity","Severe",1
+"Adverse_Events","serious_ad","No",21
+"Adverse_Events","serious_ad","Yes",1
+"Adverse_Events","related_to_study_drug","No",16
+"Adverse_Events","related_to_study_drug","Yes",6
+"Adverse_Events","actions_taken","Dose Interrupted",4
+"Adverse_Events","actions_taken","Hospitalization",4
+"Adverse_Events","actions_taken","Medication Given",3
+"Adverse_Events","actions_taken","None",10
+"Adverse_Events","actions_taken","Study Drug Continued",1
+"Adverse_Events","outcome","Not Recovered",2
+"Adverse_Events","outcome","Recovered",6
+"Adverse_Events","outcome","Recovered with Sequelae",5
+"Adverse_Events","outcome","Recovering",9
+"Adverse_Events","investigator_comments_ad","Investigator reviewed the event.",30
+"Adverse_Events","investigator_comments_ad","No further action required.",17
+"Adverse_Events","investigator_comments_ad","Participant advised to continue follow-up.",25
+"Adverse_Events","investigator_comments_ad","Participant monitored.",26
+"Adverse_Events","investigator_comments_ad","Resolved without complications.",22
+"Adverse_Events","any_adverse_event_2","No",95
+"Adverse_Events","any_adverse_event_2","Yes",25
+"Adverse_Events","adverse_event_term_2","Abdominal Pain",4
+"Adverse_Events","adverse_event_term_2","Back Pain",5
+"Adverse_Events","adverse_event_term_2","Diarrhea",3
+"Adverse_Events","adverse_event_term_2","Dizziness",2
+"Adverse_Events","adverse_event_term_2","Fatigue",2
+"Adverse_Events","adverse_event_term_2","Headache",2
+"Adverse_Events","adverse_event_term_2","Hypoglycemia",1
+"Adverse_Events","adverse_event_term_2","Nausea",3
+"Adverse_Events","adverse_event_term_2","Upper Respiratory Infection",2
+"Adverse_Events","adverse_event_term_2","Vomiting",1
+"Adverse_Events","start_date_ad_2","14-03-2026",1
+"Adverse_Events","start_date_ad_2","15-03-2026",2
+"Adverse_Events","start_date_ad_2","16-03-2026",1
+"Adverse_Events","start_date_ad_2","17-03-2026",1
+"Adverse_Events","start_date_ad_2","18-03-2026",1
+"Adverse_Events","start_date_ad_2","20-03-2026",4
+"Adverse_Events","start_date_ad_2","22-03-2026",3
+"Adverse_Events","start_date_ad_2","23-03-2026",1
+"Adverse_Events","start_date_ad_2","24-03-2026",3
+"Adverse_Events","start_date_ad_2","26-03-2026",3
+"Adverse_Events","start_date_ad_2","27-03-2026",1
+"Adverse_Events","start_date_ad_2","28-03-2026",1
+"Adverse_Events","start_date_ad_2","29-03-2026",2
+"Adverse_Events","start_date_ad_2","31-03-2026",1
+"Adverse_Events","end_date_ad_2","01-04-2026",1
+"Adverse_Events","end_date_ad_2","02-04-2026",1
+"Adverse_Events","end_date_ad_2","04-04-2026",1
+"Adverse_Events","end_date_ad_2","05-04-2026",1
+"Adverse_Events","end_date_ad_2","08-04-2026",1
+"Adverse_Events","end_date_ad_2","19-03-2026",1
+"Adverse_Events","end_date_ad_2","21-03-2026",2
+"Adverse_Events","end_date_ad_2","22-03-2026",1
+"Adverse_Events","end_date_ad_2","23-03-2026",2
+"Adverse_Events","end_date_ad_2","25-03-2026",3
+"Adverse_Events","end_date_ad_2","26-03-2026",1
+"Adverse_Events","end_date_ad_2","27-03-2026",4
+"Adverse_Events","end_date_ad_2","28-03-2026",1
+"Adverse_Events","end_date_ad_2","29-03-2026",2
+"Adverse_Events","end_date_ad_2","30-03-2026",2
+"Adverse_Events","end_date_ad_2","31-03-2026",1
+"Adverse_Events","severity_2","Mild",16
+"Adverse_Events","severity_2","Moderate",6
+"Adverse_Events","severity_2","Severe",3
+"Adverse_Events","serious_ad_2","No",24
+"Adverse_Events","serious_ad_2","Yes",1
+"Adverse_Events","related_to_study_drug_2","No",17
+"Adverse_Events","related_to_study_drug_2","Yes",8
+"Adverse_Events","actions_taken_2","Dose Interrupted",3
+"Adverse_Events","actions_taken_2","Hospitalization",7
+"Adverse_Events","actions_taken_2","Medication Given",8
+"Adverse_Events","actions_taken_2","None",3
+"Adverse_Events","actions_taken_2","Study Drug Continued",4
+"Adverse_Events","outcome_2","Not Recovered",5
+"Adverse_Events","outcome_2","Recovered",6
+"Adverse_Events","outcome_2","Recovered with Sequelae",7
+"Adverse_Events","outcome_2","Recovering",7
+"Adverse_Events","investigator_comments_ad_2","Investigator reviewed the event.",20
+"Adverse_Events","investigator_comments_ad_2","No further action required.",29
+"Adverse_Events","investigator_comments_ad_2","Participant advised to continue follow-up.",25
+"Adverse_Events","investigator_comments_ad_2","Participant monitored.",21
+"Adverse_Events","investigator_comments_ad_2","Resolved without complications.",25
+"Adverse_Events","any_adverse_event_3","No",100
+"Adverse_Events","any_adverse_event_3","Yes",20
+"Adverse_Events","adverse_event_term_3","Abdominal Pain",4
+"Adverse_Events","adverse_event_term_3","Back Pain",4
+"Adverse_Events","adverse_event_term_3","Diarrhea",1
+"Adverse_Events","adverse_event_term_3","Fatigue",1
+"Adverse_Events","adverse_event_term_3","Hypoglycemia",2
+"Adverse_Events","adverse_event_term_3","Nausea",3
+"Adverse_Events","adverse_event_term_3","Upper Respiratory Infection",3
+"Adverse_Events","adverse_event_term_3","Vomiting",2
+"Adverse_Events","start_date_ad_3","08-05-2026",2
+"Adverse_Events","start_date_ad_3","09-05-2026",2
+"Adverse_Events","start_date_ad_3","10-05-2026",1
+"Adverse_Events","start_date_ad_3","12-05-2026",1
+"Adverse_Events","start_date_ad_3","13-05-2026",1
+"Adverse_Events","start_date_ad_3","14-05-2026",1
+"Adverse_Events","start_date_ad_3","15-05-2026",1
+"Adverse_Events","start_date_ad_3","16-05-2026",2
+"Adverse_Events","start_date_ad_3","18-05-2026",1
+"Adverse_Events","start_date_ad_3","20-05-2026",2
+"Adverse_Events","start_date_ad_3","23-05-2026",1
+"Adverse_Events","start_date_ad_3","25-05-2026",3
+"Adverse_Events","start_date_ad_3","26-05-2026",2
+"Adverse_Events","end_date_ad_3","01-06-2026",2
+"Adverse_Events","end_date_ad_3","10-05-2026",2
+"Adverse_Events","end_date_ad_3","14-05-2026",1
+"Adverse_Events","end_date_ad_3","15-05-2026",1
+"Adverse_Events","end_date_ad_3","19-05-2026",1
+"Adverse_Events","end_date_ad_3","20-05-2026",4
+"Adverse_Events","end_date_ad_3","22-05-2026",2
+"Adverse_Events","end_date_ad_3","23-05-2026",1
+"Adverse_Events","end_date_ad_3","26-05-2026",1
+"Adverse_Events","end_date_ad_3","27-05-2026",1
+"Adverse_Events","end_date_ad_3","28-05-2026",2
+"Adverse_Events","end_date_ad_3","30-05-2026",1
+"Adverse_Events","end_date_ad_3","31-05-2026",1
+"Adverse_Events","severity_3","Mild",14
+"Adverse_Events","severity_3","Moderate",5
+"Adverse_Events","severity_3","Severe",1
+"Adverse_Events","serious_ad_3","No",20
+"Adverse_Events","related_to_study_drug_3","No",12
+"Adverse_Events","related_to_study_drug_3","Yes",8
+"Adverse_Events","actions_taken_3","Dose Interrupted",1
+"Adverse_Events","actions_taken_3","Hospitalization",3
+"Adverse_Events","actions_taken_3","Medication Given",4
+"Adverse_Events","actions_taken_3","None",5
+"Adverse_Events","actions_taken_3","Study Drug Continued",7
+"Adverse_Events","outcome_3","Not Recovered",5
+"Adverse_Events","outcome_3","Recovered",2
+"Adverse_Events","outcome_3","Recovered with Sequelae",7
+"Adverse_Events","outcome_3","Recovering",6
+"Adverse_Events","investigator_comments_ad_3","Investigator reviewed the event.",19
+"Adverse_Events","investigator_comments_ad_3","No further action required.",29
+"Adverse_Events","investigator_comments_ad_3","Participant advised to continue follow-up.",23
+"Adverse_Events","investigator_comments_ad_3","Participant monitored.",24
+"Adverse_Events","investigator_comments_ad_3","Resolved without complications.",25
+"Baseline_and_Demographics","gender","Female",59
+"Baseline_and_Demographics","gender","Male",61
+"Baseline_and_Demographics","preg_stat","No",57
+"Baseline_and_Demographics","preg_stat","Yes",2
+"Baseline_and_Demographics","rece","Asian",30
+"Baseline_and_Demographics","rece","Black",24
+"Baseline_and_Demographics","rece","Hispanic",25
+"Baseline_and_Demographics","rece","Other",21
+"Baseline_and_Demographics","rece","White",20
+"Baseline_and_Demographics","smoke_yn","No",78
+"Baseline_and_Demographics","smoke_yn","Yes",42
+"Baseline_and_Demographics","smoking_status","Daily",22
+"Baseline_and_Demographics","smoking_status","Occasionally",20
+"Clinical_Assessment","visit_date","15-01-2026",120
+"Clinical_Assessment","visit_date_2","12-03-2026",120
+"Clinical_Assessment","visit_date_3","07-05-2026",120
+"Clinical_Assessment","visit_date_4","02-07-2026",120
+"Concomitant_Medication","any_concomitant_medication","No",34
+"Concomitant_Medication","any_concomitant_medication","Yes",86
+"Concomitant_Medication","medication_name","Amlodipine",14
+"Concomitant_Medication","medication_name","Atorvastatin",16
+"Concomitant_Medication","medication_name","Lisinopril",14
+"Concomitant_Medication","medication_name","Metformin",12
+"Concomitant_Medication","medication_name","Paracetamol",14
+"Concomitant_Medication","medication_name","Vitamin D",16
+"Concomitant_Medication","indication","Headache",14
+"Concomitant_Medication","indication","Hyperlipidemia",16
+"Concomitant_Medication","indication","Hypertension",28
+"Concomitant_Medication","indication","Supplement",16
+"Concomitant_Medication","indication","Type 2 Diabetes",12
+"Concomitant_Medication","dose","10 mg OD",14
+"Concomitant_Medication","dose","1000 IU OD",16
+"Concomitant_Medication","dose","20 mg OD",16
+"Concomitant_Medication","dose","5 mg OD",14
+"Concomitant_Medication","dose","500 mg BID",12
+"Concomitant_Medication","dose","500 mg PRN",14
+"Concomitant_Medication","start_date","15-01-2026",86
+"Concomitant_Medication","ongoing","No",53
+"Concomitant_Medication","ongoing","Yes",33
+"Concomitant_Medication","medication_changed_since_l","No",41
+"Concomitant_Medication","medication_changed_since_l","Yes",45
+"Concomitant_Medication","investigator_comments_cm","Continue medication.",33
+"Concomitant_Medication","investigator_comments_cm","No clinically relevant interaction.",31
+"Concomitant_Medication","investigator_comments_cm","No concerns.",37
+"Concomitant_Medication","investigator_comments_cm","Reviewed by investigator.",19
+"Concomitant_Medication","any_concomitant_medication_2","No",35
+"Concomitant_Medication","any_concomitant_medication_2","Yes",85
+"Concomitant_Medication","medication_name_2","Amlodipine",15
+"Concomitant_Medication","medication_name_2","Atorvastatin",10
+"Concomitant_Medication","medication_name_2","Lisinopril",17
+"Concomitant_Medication","medication_name_2","Metformin",11
+"Concomitant_Medication","medication_name_2","Paracetamol",13
+"Concomitant_Medication","medication_name_2","Vitamin D",19
+"Concomitant_Medication","indication_2","Headache",13
+"Concomitant_Medication","indication_2","Hyperlipidemia",10
+"Concomitant_Medication","indication_2","Hypertension",32
+"Concomitant_Medication","indication_2","Supplement",19
+"Concomitant_Medication","indication_2","Type 2 Diabetes",11
+"Concomitant_Medication","dose_2","10 mg OD",17
+"Concomitant_Medication","dose_2","1000 IU OD",19
+"Concomitant_Medication","dose_2","20 mg OD",10
+"Concomitant_Medication","dose_2","5 mg OD",15
+"Concomitant_Medication","dose_2","500 mg BID",11
+"Concomitant_Medication","dose_2","500 mg PRN",13
+"Concomitant_Medication","start_date_2","01-03-2026",2
+"Concomitant_Medication","start_date_2","02-03-2026",2
+"Concomitant_Medication","start_date_2","03-03-2026",3
+"Concomitant_Medication","start_date_2","04-03-2026",4
+"Concomitant_Medication","start_date_2","05-03-2026",3
+"Concomitant_Medication","start_date_2","06-03-2026",1
+"Concomitant_Medication","start_date_2","07-03-2026",2
+"Concomitant_Medication","start_date_2","10-02-2026",1
+"Concomitant_Medication","start_date_2","11-02-2026",3
+"Concomitant_Medication","start_date_2","12-02-2026",1
+"Concomitant_Medication","start_date_2","13-02-2026",8
+"Concomitant_Medication","start_date_2","14-02-2026",7
+"Concomitant_Medication","start_date_2","15-02-2026",3
+"Concomitant_Medication","start_date_2","16-02-2026",1
+"Concomitant_Medication","start_date_2","17-02-2026",4
+"Concomitant_Medication","start_date_2","18-02-2026",5
+"Concomitant_Medication","start_date_2","19-02-2026",3
+"Concomitant_Medication","start_date_2","20-02-2026",2
+"Concomitant_Medication","start_date_2","21-02-2026",5
+"Concomitant_Medication","start_date_2","22-02-2026",3
+"Concomitant_Medication","start_date_2","23-02-2026",2
+"Concomitant_Medication","start_date_2","24-02-2026",3
+"Concomitant_Medication","start_date_2","25-02-2026",7
+"Concomitant_Medication","start_date_2","26-02-2026",6
+"Concomitant_Medication","start_date_2","27-02-2026",2
+"Concomitant_Medication","start_date_2","28-02-2026",2
+"Concomitant_Medication","ongoing_2","No",52
+"Concomitant_Medication","ongoing_2","Yes",33
+"Concomitant_Medication","medication_changed_since_l_2","No",43
+"Concomitant_Medication","medication_changed_since_l_2","Yes",42
+"Concomitant_Medication","investigator_comments_cm_2","Continue medication.",27
+"Concomitant_Medication","investigator_comments_cm_2","No clinically relevant interaction.",37
+"Concomitant_Medication","investigator_comments_cm_2","No concerns.",24
+"Concomitant_Medication","investigator_comments_cm_2","Reviewed by investigator.",32
+"Concomitant_Medication","any_concomitant_medication_3","No",44
+"Concomitant_Medication","any_concomitant_medication_3","Yes",76
+"Concomitant_Medication","medication_name_3","Amlodipine",12
+"Concomitant_Medication","medication_name_3","Atorvastatin",14
+"Concomitant_Medication","medication_name_3","Lisinopril",18
+"Concomitant_Medication","medication_name_3","Metformin",12
+"Concomitant_Medication","medication_name_3","Paracetamol",7
+"Concomitant_Medication","medication_name_3","Vitamin D",13
+"Concomitant_Medication","indication_3","Headache",7
+"Concomitant_Medication","indication_3","Hyperlipidemia",14
+"Concomitant_Medication","indication_3","Hypertension",30
+"Concomitant_Medication","indication_3","Supplement",13
+"Concomitant_Medication","indication_3","Type 2 Diabetes",12
+"Concomitant_Medication","dose_3","10 mg OD",18
+"Concomitant_Medication","dose_3","1000 IU OD",13
+"Concomitant_Medication","dose_3","20 mg OD",14
+"Concomitant_Medication","dose_3","5 mg OD",12
+"Concomitant_Medication","dose_3","500 mg BID",12
+"Concomitant_Medication","dose_3","500 mg PRN",7
+"Concomitant_Medication","start_date_3","01-05-2026",1
+"Concomitant_Medication","start_date_3","02-05-2026",3
+"Concomitant_Medication","start_date_3","07-04-2026",2
+"Concomitant_Medication","start_date_3","08-04-2026",1
+"Concomitant_Medication","start_date_3","09-04-2026",5
+"Concomitant_Medication","start_date_3","10-04-2026",3
+"Concomitant_Medication","start_date_3","11-04-2026",4
+"Concomitant_Medication","start_date_3","12-04-2026",6
+"Concomitant_Medication","start_date_3","13-04-2026",3
+"Concomitant_Medication","start_date_3","14-04-2026",4
+"Concomitant_Medication","start_date_3","15-04-2026",4
+"Concomitant_Medication","start_date_3","17-04-2026",6
+"Concomitant_Medication","start_date_3","18-04-2026",3
+"Concomitant_Medication","start_date_3","19-04-2026",3
+"Concomitant_Medication","start_date_3","20-04-2026",2
+"Concomitant_Medication","start_date_3","21-04-2026",4
+"Concomitant_Medication","start_date_3","22-04-2026",4
+"Concomitant_Medication","start_date_3","23-04-2026",1
+"Concomitant_Medication","start_date_3","24-04-2026",2
+"Concomitant_Medication","start_date_3","25-04-2026",5
+"Concomitant_Medication","start_date_3","26-04-2026",1
+"Concomitant_Medication","start_date_3","27-04-2026",2
+"Concomitant_Medication","start_date_3","28-04-2026",1
+"Concomitant_Medication","start_date_3","29-04-2026",2
+"Concomitant_Medication","start_date_3","30-04-2026",4
+"Concomitant_Medication","ongoing_3","No",42
+"Concomitant_Medication","ongoing_3","Yes",34
+"Concomitant_Medication","medication_changed_since_l_3","No",40
+"Concomitant_Medication","medication_changed_since_l_3","Yes",36
+"Concomitant_Medication","investigator_comments_cm_3","Continue medication.",28
+"Concomitant_Medication","investigator_comments_cm_3","No clinically relevant interaction.",42
+"Concomitant_Medication","investigator_comments_cm_3","No concerns.",18
+"Concomitant_Medication","investigator_comments_cm_3","Reviewed by investigator.",32
+"Concomitant_Medication","any_concomitant_medication_4","No",41
+"Concomitant_Medication","any_concomitant_medication_4","Yes",79
+"Concomitant_Medication","medication_name_4","Amlodipine",11
+"Concomitant_Medication","medication_name_4","Atorvastatin",14
+"Concomitant_Medication","medication_name_4","Lisinopril",12
+"Concomitant_Medication","medication_name_4","Metformin",16
+"Concomitant_Medication","medication_name_4","Paracetamol",12
+"Concomitant_Medication","medication_name_4","Vitamin D",14
+"Concomitant_Medication","indication_4","Headache",12
+"Concomitant_Medication","indication_4","Hyperlipidemia",14
+"Concomitant_Medication","indication_4","Hypertension",23
+"Concomitant_Medication","indication_4","Supplement",14
+"Concomitant_Medication","indication_4","Type 2 Diabetes",16
+"Concomitant_Medication","dose_4","10 mg OD",12
+"Concomitant_Medication","dose_4","1000 IU OD",14
+"Concomitant_Medication","dose_4","20 mg OD",14
+"Concomitant_Medication","dose_4","5 mg OD",11
+"Concomitant_Medication","dose_4","500 mg BID",16
+"Concomitant_Medication","dose_4","500 mg PRN",12
+"Concomitant_Medication","start_date_4","02-06-2026",5
+"Concomitant_Medication","start_date_4","03-06-2026",1
+"Concomitant_Medication","start_date_4","04-06-2026",2
+"Concomitant_Medication","start_date_4","05-06-2026",2
+"Concomitant_Medication","start_date_4","06-06-2026",4
+"Concomitant_Medication","start_date_4","07-06-2026",3
+"Concomitant_Medication","start_date_4","08-06-2026",2
+"Concomitant_Medication","start_date_4","09-06-2026",6
+"Concomitant_Medication","start_date_4","10-06-2026",3
+"Concomitant_Medication","start_date_4","11-06-2026",5
+"Concomitant_Medication","start_date_4","12-06-2026",4
+"Concomitant_Medication","start_date_4","13-06-2026",4
+"Concomitant_Medication","start_date_4","14-06-2026",5
+"Concomitant_Medication","start_date_4","15-06-2026",3
+"Concomitant_Medication","start_date_4","16-06-2026",3
+"Concomitant_Medication","start_date_4","17-06-2026",3
+"Concomitant_Medication","start_date_4","18-06-2026",1
+"Concomitant_Medication","start_date_4","19-06-2026",3
+"Concomitant_Medication","start_date_4","20-06-2026",7
+"Concomitant_Medication","start_date_4","22-06-2026",2
+"Concomitant_Medication","start_date_4","23-06-2026",1
+"Concomitant_Medication","start_date_4","24-06-2026",3
+"Concomitant_Medication","start_date_4","25-06-2026",3
+"Concomitant_Medication","start_date_4","26-06-2026",3
+"Concomitant_Medication","start_date_4","27-06-2026",1
+"Concomitant_Medication","stop_date_4","03-07-2026",1
+"Concomitant_Medication","stop_date_4","03-08-2026",1
+"Concomitant_Medication","stop_date_4","04-07-2026",2
+"Concomitant_Medication","stop_date_4","06-08-2026",2
+"Concomitant_Medication","stop_date_4","08-07-2026",1
+"Concomitant_Medication","stop_date_4","09-07-2026",1
+"Concomitant_Medication","stop_date_4","10-07-2026",1
+"Concomitant_Medication","stop_date_4","13-07-2026",1
+"Concomitant_Medication","stop_date_4","14-07-2026",1
+"Concomitant_Medication","stop_date_4","17-07-2026",2
+"Concomitant_Medication","stop_date_4","19-07-2026",1
+"Concomitant_Medication","stop_date_4","20-06-2026",1
+"Concomitant_Medication","stop_date_4","20-07-2026",1
+"Concomitant_Medication","stop_date_4","20-08-2026",1
+"Concomitant_Medication","stop_date_4","21-06-2026",1
+"Concomitant_Medication","stop_date_4","21-07-2026",1
+"Concomitant_Medication","stop_date_4","22-06-2026",2
+"Concomitant_Medication","stop_date_4","22-07-2026",1
+"Concomitant_Medication","stop_date_4","23-06-2026",1
+"Concomitant_Medication","stop_date_4","23-07-2026",2
+"Concomitant_Medication","stop_date_4","24-06-2026",1
+"Concomitant_Medication","stop_date_4","24-07-2026",1
+"Concomitant_Medication","stop_date_4","24-08-2026",1
+"Concomitant_Medication","stop_date_4","26-07-2026",2
+"Concomitant_Medication","stop_date_4","27-07-2026",1
+"Concomitant_Medication","stop_date_4","28-06-2026",1
+"Concomitant_Medication","stop_date_4","29-06-2026",1
+"Concomitant_Medication","stop_date_4","29-07-2026",1
+"Concomitant_Medication","stop_date_4","30-06-2026",1
+"Concomitant_Medication","stop_date_4","31-07-2026",1
+"Concomitant_Medication","ongoing_4","No",36
+"Concomitant_Medication","ongoing_4","Yes",43
+"Concomitant_Medication","medication_changed_since_l_4","No",42
+"Concomitant_Medication","medication_changed_since_l_4","Yes",37
+"Concomitant_Medication","investigator_comments_cm_4","Continue medication.",23
+"Concomitant_Medication","investigator_comments_cm_4","No clinically relevant interaction.",26
+"Concomitant_Medication","investigator_comments_cm_4","No concerns.",31
+"Concomitant_Medication","investigator_comments_cm_4","Reviewed by investigator.",40
+"Drug_Accountability","visit_date_acc","15-01-2026",120
+"Drug_Accountability","drug_dispensed_acc","Yes",120
+"Drug_Accountability","missed_any_doses","No",12
+"Drug_Accountability","missed_any_doses","Yes",108
+"Drug_Accountability","reason_for_missed_dose","Busy schedule",21
+"Drug_Accountability","reason_for_missed_dose","Felt unwell",30
+"Drug_Accountability","reason_for_missed_dose","Forgot dose",17
+"Drug_Accountability","reason_for_missed_dose","Lost medication",20
+"Drug_Accountability","reason_for_missed_dose","Travelling",20
+"Drug_Accountability","drug_accountability_review","Yes",120
+"Drug_Accountability","investigator_comments_da","Compliance acceptable.",27
+"Drug_Accountability","investigator_comments_da","Continue study medication.",33
+"Drug_Accountability","investigator_comments_da","Counselled participant regarding adherence.",30
+"Drug_Accountability","investigator_comments_da","Good compliance.",30
+"Drug_Accountability","visit_date_acc_2","12-03-2026",120
+"Drug_Accountability","drug_dispensed_acc_2","Yes",120
+"Drug_Accountability","missed_any_doses_2","No",12
+"Drug_Accountability","missed_any_doses_2","Yes",108
+"Drug_Accountability","reason_for_missed_dose_2","Busy schedule",25
+"Drug_Accountability","reason_for_missed_dose_2","Felt unwell",20
+"Drug_Accountability","reason_for_missed_dose_2","Forgot dose",23
+"Drug_Accountability","reason_for_missed_dose_2","Lost medication",22
+"Drug_Accountability","reason_for_missed_dose_2","Travelling",18
+"Drug_Accountability","drug_accountability_review_2","Yes",120
+"Drug_Accountability","investigator_comments_da_2","Compliance acceptable.",24
+"Drug_Accountability","investigator_comments_da_2","Continue study medication.",31
+"Drug_Accountability","investigator_comments_da_2","Counselled participant regarding adherence.",31
+"Drug_Accountability","investigator_comments_da_2","Good compliance.",34
+"Drug_Accountability","visit_date_acc_3","07-05-2026",120
+"Drug_Accountability","drug_dispensed_acc_3","Yes",120
+"Drug_Accountability","missed_any_doses_3","No",8
+"Drug_Accountability","missed_any_doses_3","Yes",112
+"Drug_Accountability","reason_for_missed_dose_3","Busy schedule",33
+"Drug_Accountability","reason_for_missed_dose_3","Felt unwell",19
+"Drug_Accountability","reason_for_missed_dose_3","Forgot dose",21
+"Drug_Accountability","reason_for_missed_dose_3","Lost medication",17
+"Drug_Accountability","reason_for_missed_dose_3","Travelling",22
+"Drug_Accountability","drug_accountability_review_3","Yes",120
+"Drug_Accountability","investigator_comments_da_3","Compliance acceptable.",35
+"Drug_Accountability","investigator_comments_da_3","Continue study medication.",34
+"Drug_Accountability","investigator_comments_da_3","Counselled participant regarding adherence.",25
+"Drug_Accountability","investigator_comments_da_3","Good compliance.",26
+"Drug_Accountability","visit_date_acc_4","02-07-2026",120
+"Drug_Accountability","drug_dispensed_acc_4","Yes",120
+"Drug_Accountability","missed_any_doses_4","No",10
+"Drug_Accountability","missed_any_doses_4","Yes",110
+"Drug_Accountability","reason_for_missed_dose_4","Busy schedule",22
+"Drug_Accountability","reason_for_missed_dose_4","Felt unwell",24
+"Drug_Accountability","reason_for_missed_dose_4","Forgot dose",22
+"Drug_Accountability","reason_for_missed_dose_4","Lost medication",25
+"Drug_Accountability","reason_for_missed_dose_4","Travelling",17
+"Drug_Accountability","drug_accountability_review_4","Yes",120
+"Drug_Accountability","investigator_comments_da_4","Compliance acceptable.",27
+"Drug_Accountability","investigator_comments_da_4","Continue study medication.",35
+"Drug_Accountability","investigator_comments_da_4","Counselled participant regarding adherence.",31
+"Drug_Accountability","investigator_comments_da_4","Good compliance.",27
+"Eligibility_Assessment","age_between_18_75","Yes",120
+"Eligibility_Assessment","diagnosed_with_type_2_diab","No",5
+"Eligibility_Assessment","diagnosed_with_type_2_diab","Yes",115
+"Eligibility_Assessment","hba1c_bn_7_and_1050","No",4
+"Eligibility_Assessment","hba1c_bn_7_and_1050","Yes",116
+"Eligibility_Assessment","stable_diabetes_medictn","No",8
+"Eligibility_Assessment","stable_diabetes_medictn","Yes",112
+"Eligibility_Assessment","diagnose_wth_type1_diabe","No",119
+"Eligibility_Assessment","diagnose_wth_type1_diabe","Yes",1
+"Eligibility_Assessment","pregnant_or_breastfeeding","No",118
+"Eligibility_Assessment","pregnant_or_breastfeeding","Yes",2
+"Eligibility_Assessment","severe_liver_d","No",116
+"Eligibility_Assessment","severe_liver_d","Yes",4
+"Eligibility_Assessment","renal_failure","No",119
+"Eligibility_Assessment","renal_failure","Yes",1
+"Eligibility_Assessment","eligible_for_study","No",21
+"Eligibility_Assessment","eligible_for_study","Yes",99
+"End_of_Study","study_completion_date","01-07-2026",11
+"End_of_Study","study_completion_date","02-07-2026",8
+"End_of_Study","study_completion_date","03-07-2026",13
+"End_of_Study","study_completion_date","04-07-2026",3
+"End_of_Study","study_completion_date","05-07-2026",6
+"End_of_Study","study_completion_date","06-07-2026",8
+"End_of_Study","study_completion_date","07-07-2026",10
+"End_of_Study","study_completion_date","08-07-2026",5
+"End_of_Study","study_completion_date","09-07-2026",4
+"End_of_Study","study_completion_date","25-06-2026",9
+"End_of_Study","study_completion_date","26-06-2026",9
+"End_of_Study","study_completion_date","27-06-2026",8
+"End_of_Study","study_completion_date","28-06-2026",11
+"End_of_Study","study_completion_date","29-06-2026",9
+"End_of_Study","study_completion_date","30-06-2026",6
+"End_of_Study","study_completed","No",11
+"End_of_Study","study_completed","Yes",109
+"End_of_Study","reason_for_discontinuation","Adverse Event",1
+"End_of_Study","reason_for_discontinuation","Investigator Decision",1
+"End_of_Study","reason_for_discontinuation","Lost to Follow-up",3
+"End_of_Study","reason_for_discontinuation","Protocol Deviation",2
+"End_of_Study","reason_for_discontinuation","Withdrawal of Consent",4
+"End_of_Study","final_study_drug_returned","No",7
+"End_of_Study","final_study_drug_returned","Yes",113
+"End_of_Study","final_laboratory_assessmen","Yes",120
+"End_of_Study","final_physical_assessment","No",2
+"End_of_Study","final_physical_assessment","Yes",118
+"End_of_Study","any_ongoing_adverse_event","No",111
+"End_of_Study","any_ongoing_adverse_event","Yes",9
+"End_of_Study","follow_up_required","No",111
+"End_of_Study","follow_up_required","Yes",9
+"End_of_Study","investigator_comment","Follow-up completed.",25
+"End_of_Study","investigator_comment","No outstanding safety concerns.",22
+"End_of_Study","investigator_comment","Participant completed all required visits.",25
+"End_of_Study","investigator_comment","Participant withdrawn according to protocol.",23
+"End_of_Study","investigator_comment","Study completed successfully.",25
+"Laboratory_Results","visit_2","Baseline",120
+"Laboratory_Results","visit_3","Week 8",120
+"Laboratory_Results","visit_4","Week 16",120
+"Laboratory_Results","visit_5","Week 24",120
+"Laboratory_Results","laboratory_collection_date","15-01-2026",120
+"Laboratory_Results","was_sample_collected","Yes",120
+"Laboratory_Results","clinically_significant_abn","No",109
+"Laboratory_Results","clinically_significant_abn","Yes",11
+"Laboratory_Results","describe_the_abnormality","Mild elevation",11
+"Laboratory_Results","laboratory_results_reviewe","Yes",120
+"Laboratory_Results","review_date","15-01-2026",120
+"Laboratory_Results","investigator_comments","Continue study",120
+"Laboratory_Results","laboratory_collection_date_2","29-01-2026",120
+"Laboratory_Results","was_sample_collected_2","Yes",120
+"Laboratory_Results","clinically_significant_abn_2","No",108
+"Laboratory_Results","clinically_significant_abn_2","Yes",12
+"Laboratory_Results","describe_the_abnormality_2","Mild elevation",12
+"Laboratory_Results","laboratory_results_reviewe_2","Yes",120
+"Laboratory_Results","review_date_2","29-01-2026",120
+"Laboratory_Results","investigator_comments_2","Continue study",120
+"Laboratory_Results","laboratory_collection_date_3","26-03-2026",120
+"Laboratory_Results","was_sample_collected_3","Yes",120
+"Laboratory_Results","clinically_significant_abn_3","No",109
+"Laboratory_Results","clinically_significant_abn_3","Yes",11
+"Laboratory_Results","describe_the_abnormality_3","Mild elevation",11
+"Laboratory_Results","laboratory_results_reviewe_3","Yes",120
+"Laboratory_Results","review_date_3","26-03-2026",120
+"Laboratory_Results","investigator_comments_3","Continue study",120
+"Laboratory_Results","laboratory_collection_date_4","21-05-2026",120
+"Laboratory_Results","was_sample_collected_4","Yes",120
+"Laboratory_Results","clinically_significant_abn_4","No",116
+"Laboratory_Results","clinically_significant_abn_4","Yes",4
+"Laboratory_Results","describe_the_abnormality_4","Mild elevation",4
+"Laboratory_Results","laboratory_results_reviewe_4","Yes",120
+"Laboratory_Results","review_date_4","21-05-2026",120
+"Laboratory_Results","investigator_comments_4","Continue study",120
+"Laboratory_Results","laboratory_collection_date_5","16-07-2026",120
+"Laboratory_Results","was_sample_collected_5","Yes",120
+"Laboratory_Results","clinically_significant_abn_5","No",113
+"Laboratory_Results","clinically_significant_abn_5","Yes",7
+"Laboratory_Results","describe_the_abnormality_5","Mild elevation",7
+"Laboratory_Results","laboratory_results_reviewe_5","Yes",120
+"Laboratory_Results","review_date_5","16-07-2026",120
+"Laboratory_Results","investigator_comments_5","Continue study",120
+"Randomization","randomization_date","15-01-2026",5
+"Randomization","randomization_date","16-01-2026",11
+"Randomization","randomization_date","17-01-2026",9
+"Randomization","randomization_date","18-01-2026",14
+"Randomization","randomization_date","19-01-2026",9
+"Randomization","randomization_date","20-01-2026",5
+"Randomization","randomization_date","21-01-2026",8
+"Randomization","randomization_date","22-01-2026",6
+"Randomization","randomization_date","23-01-2026",10
+"Randomization","randomization_date","24-01-2026",9
+"Randomization","randomization_date","25-01-2026",7
+"Randomization","randomization_date","26-01-2026",7
+"Randomization","randomization_date","27-01-2026",3
+"Randomization","randomization_date","28-01-2026",6
+"Randomization","randomization_date","29-01-2026",11
+"Randomization","drug_dispensed","Yes",120
+"Randomization","dispensed_date","15-01-2026",5
+"Randomization","dispensed_date","16-01-2026",11
+"Randomization","dispensed_date","17-01-2026",9
+"Randomization","dispensed_date","18-01-2026",14
+"Randomization","dispensed_date","19-01-2026",9
+"Randomization","dispensed_date","20-01-2026",5
+"Randomization","dispensed_date","21-01-2026",8
+"Randomization","dispensed_date","22-01-2026",6
+"Randomization","dispensed_date","23-01-2026",10
+"Randomization","dispensed_date","24-01-2026",9
+"Randomization","dispensed_date","25-01-2026",7
+"Randomization","dispensed_date","26-01-2026",7
+"Randomization","dispensed_date","27-01-2026",3
+"Randomization","dispensed_date","28-01-2026",6
+"Randomization","dispensed_date","29-01-2026",11
+"Randomization","dsipensed_by","PharmacistA",42
+"Randomization","dsipensed_by","PharmacistB",39
+"Randomization","dsipensed_by","PharmacistC",39
+"Screening_and_InformedConsent","screening_status","Completed",112
+"Screening_and_InformedConsent","screening_status","Screen Failure",8
+"Screening_and_InformedConsent","pi","Dr. Anjali Bose",42
+"Screening_and_InformedConsent","pi","Dr. Anusha Sharma",39
+"Screening_and_InformedConsent","pi","Dr. Meera Sharma",39
+"Screening_and_InformedConsent","consent_confirmation","No",15
+"Screening_and_InformedConsent","consent_confirmation","Yes",105
+"Screening_and_InformedConsent","re_consent_required","No",100
+"Screening_and_InformedConsent","re_consent_required","Yes",5
+"Screening_and_InformedConsent","reconsent_date","02-03-2026",1
+"Screening_and_InformedConsent","reconsent_date","05-06-2026",1
+"Screening_and_InformedConsent","reconsent_date","14-03-2026",1
+"Screening_and_InformedConsent","reconsent_date","14-04-2026",1
+"Screening_and_InformedConsent","reconsent_date","15-04-2026",1
+"Screening_and_InformedConsent","consent_version","Version 1.0",49
+"Screening_and_InformedConsent","consent_version","Version 1.1",56
+"Screening_and_InformedConsent","person_obtaining_consent","Clinical Research Coordinator",33
+"Screening_and_InformedConsent","person_obtaining_consent","Principal Investigator",39
+"Screening_and_InformedConsent","person_obtaining_consent","Study Nurse",48

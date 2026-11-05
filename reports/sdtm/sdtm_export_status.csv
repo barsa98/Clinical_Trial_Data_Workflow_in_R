@@ -1,0 +1,7 @@
+"Domain","Records","Variables","File","Exported","Error"
+"DM",120,10,"data/sdtm/DM.csv",TRUE,NA
+"AE",67,12,"data/sdtm/AE.csv",TRUE,NA
+"CM",326,9,"data/sdtm/CM.csv",TRUE,NA
+"LB",5400,9,"data/sdtm/LB.csv",TRUE,NA
+"VS",240,10,"data/sdtm/VS.csv",TRUE,NA
+"DS",11,8,"data/sdtm/DS.csv",TRUE,NA

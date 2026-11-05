@@ -1,0 +1,7 @@
+"Domain","Record_Count","Variable_Count","Missing_Required_Variables","Missing_USUBJID","Incorrect_DOMAIN","Duplicate_Subject_Sequence"
+"DM",120,10,"",0,0,0
+"AE",67,12,"",0,0,0
+"CM",326,9,"",0,0,0
+"LB",5400,9,"",0,0,0
+"VS",240,10,"",0,0,0
+"DS",11,8,"",0,0,0

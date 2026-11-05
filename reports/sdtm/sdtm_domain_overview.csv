@@ -1,0 +1,7 @@
+"Domain","Description","Records","Variables"
+"DM","Demographics",120,10
+"AE","Adverse Events",67,12
+"CM","Concomitant Medications",326,9
+"LB","Laboratory Tests",5400,9
+"VS","Vital Signs",240,10
+"DS","Disposition",11,8

@@ -1,0 +1,12 @@
+item,reason
+ITTFL population flag,Confirm the protocol-defined analysis population before assigning.
+SAFFL population flag,Actual treatment exposure is not established by current SDTM domains.
+Actual treatment variables (TRT01A/TRT01AN),Dispensing alone does not establish treatment actually received.
+TRT01PN numeric treatment coding,Numeric treatment codes should be assigned from the analysis metadata/plan.
+TRTSDT/TRTEDT treatment dates,No confirmed exposure start/end dates are available.
+"ADLB baseline, change and percent change",Baseline visit/record has not yet been confirmed.
+"ADVS baseline, change and percent change",Baseline visit/record has not yet been confirmed.
+ADVS assessment date and visit mapping,Current SDTM VS does not carry confirmed assessment dates/visits.
+ADLB fifth block visit mapping,The fifth repeated LB block has no confirmed visit label.
+Laboratory units and standardized analysis values,Source units and conversion rules require confirmation.
+Analysis visit numbering (AVISITN),Confirm protocol visit schedule and visit numbering.
