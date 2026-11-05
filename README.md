@@ -161,7 +161,7 @@ clinical-trial-data-workflow-in-R/
 │   ├── 02_investigate_missing_data.R
 │   ├── 03_clean_and_standardize.R
 │   ├── 04_data_quality_checks.R
-│   ├── 05_create_sdtm.R
+│   ├── 05_create_sdtm_with_treatment_mapping_baseR.R
 │   └── 06_create_adam.R
 └── reports/
 ```
