@@ -1,0 +1,121 @@
+record_id,subject_id,study_completion_date,study_completed,reason_for_discontinuation,final_study_drug_returned,final_laboratory_assessmen,final_physical_assessment,any_ongoing_adverse_event,follow_up_required,investigator_comment
+1,SUB001,25-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+2,SUB002,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+3,SUB003,05-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+4,SUB004,27-06-2026,Yes,,Yes,Yes,Yes,Yes,Yes,No outstanding safety concerns.
+5,SUB005,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+6,SUB006,09-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+7,SUB007,06-07-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Participant completed all required visits.
+8,SUB008,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+9,SUB009,06-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+10,SUB010,01-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+11,SUB011,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+12,SUB012,04-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+13,SUB013,27-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+14,SUB014,28-06-2026,Yes,,No,Yes,Yes,No,No,Study completed successfully.
+15,SUB015,27-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+16,SUB016,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+17,SUB017,07-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+18,SUB018,07-07-2026,No,Withdrawal of Consent,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+19,SUB019,27-06-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Study completed successfully.
+20,SUB020,02-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+21,SUB021,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+22,SUB022,03-07-2026,No,Withdrawal of Consent,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+23,SUB023,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+24,SUB024,05-07-2026,No,Lost to Follow-up,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+25,SUB025,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+26,SUB026,25-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+27,SUB027,06-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+28,SUB028,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+29,SUB029,05-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+30,SUB030,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+31,SUB031,08-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+32,SUB032,09-07-2026,No,Withdrawal of Consent,Yes,Yes,Yes,No,No,Study completed successfully.
+33,SUB033,25-06-2026,Yes,,No,Yes,Yes,No,No,Follow-up completed.
+34,SUB034,06-07-2026,Yes,,No,Yes,Yes,No,No,No outstanding safety concerns.
+35,SUB035,25-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+36,SUB036,09-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+37,SUB037,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+38,SUB038,25-06-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+39,SUB039,06-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+40,SUB040,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+41,SUB041,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+42,SUB042,27-06-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Participant withdrawn according to protocol.
+43,SUB043,08-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+44,SUB044,26-06-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+45,SUB045,05-07-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Study completed successfully.
+46,SUB046,01-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+47,SUB047,02-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+48,SUB048,08-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+49,SUB049,07-07-2026,Yes,,No,Yes,Yes,No,No,Study completed successfully.
+50,SUB050,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+51,SUB051,07-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+52,SUB052,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+53,SUB053,25-06-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+54,SUB054,08-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+55,SUB055,29-06-2026,No,Lost to Follow-up,Yes,Yes,No,No,No,Study completed successfully.
+56,SUB056,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+57,SUB057,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+58,SUB058,25-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+59,SUB059,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+60,SUB060,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+61,SUB061,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+62,SUB062,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+63,SUB063,02-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+64,SUB064,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+65,SUB065,28-06-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Participant withdrawn according to protocol.
+66,SUB066,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+67,SUB067,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+68,SUB068,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+69,SUB069,26-06-2026,No,Protocol Deviation,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+70,SUB070,09-07-2026,No,Protocol Deviation,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+71,SUB071,27-06-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+72,SUB072,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+73,SUB073,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+74,SUB074,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+75,SUB075,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+76,SUB076,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+77,SUB077,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+78,SUB078,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+79,SUB079,03-07-2026,No,Adverse Event,Yes,Yes,Yes,No,No,Follow-up completed.
+80,SUB080,02-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+81,SUB081,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+82,SUB082,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+83,SUB083,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+84,SUB084,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+85,SUB085,27-06-2026,Yes,,No,Yes,Yes,No,No,Follow-up completed.
+86,SUB086,06-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+87,SUB087,04-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+88,SUB088,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+89,SUB089,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+90,SUB090,29-06-2026,No,Investigator Decision,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+91,SUB091,08-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+92,SUB092,05-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+93,SUB093,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+94,SUB094,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+95,SUB095,02-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+96,SUB096,04-07-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Participant withdrawn according to protocol.
+97,SUB097,06-07-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+98,SUB098,03-07-2026,Yes,,No,Yes,Yes,No,No,No outstanding safety concerns.
+99,SUB099,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+100,SUB100,29-06-2026,Yes,,Yes,Yes,Yes,Yes,Yes,Participant withdrawn according to protocol.
+101,SUB101,27-06-2026,Yes,,Yes,Yes,Yes,No,No,No outstanding safety concerns.
+102,SUB102,02-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+103,SUB103,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+104,SUB104,26-06-2026,No,Withdrawal of Consent,Yes,Yes,Yes,No,No,Participant completed all required visits.
+105,SUB105,01-07-2026,Yes,,Yes,Yes,Yes,Yes,Yes,No outstanding safety concerns.
+106,SUB106,25-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+107,SUB107,26-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+108,SUB108,02-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+109,SUB109,28-06-2026,Yes,,Yes,Yes,Yes,No,No,Participant completed all required visits.
+110,SUB110,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+111,SUB111,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+112,SUB112,06-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+113,SUB113,01-07-2026,Yes,,Yes,Yes,Yes,No,No,Participant withdrawn according to protocol.
+114,SUB114,25-06-2026,Yes,,No,Yes,Yes,No,No,Participant completed all required visits.
+115,SUB115,05-07-2026,Yes,,Yes,Yes,No,No,No,Follow-up completed.
+116,SUB116,02-07-2026,No,Lost to Follow-up,Yes,Yes,Yes,No,No,Follow-up completed.
+117,SUB117,29-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+118,SUB118,30-06-2026,Yes,,Yes,Yes,Yes,No,No,Study completed successfully.
+119,SUB119,03-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.
+120,SUB120,07-07-2026,Yes,,Yes,Yes,Yes,No,No,Follow-up completed.

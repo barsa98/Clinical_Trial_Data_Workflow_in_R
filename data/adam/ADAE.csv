@@ -1,0 +1,68 @@
+STUDYID,USUBJID,SUBJID,ASEQ,AETERM,ASTDT,AENDT,AESEV,AESER,AEREL,AEACN,AEOUT,AGE,AGEU,SEX,ARMCD,ARM,TRT01P
+DTM201,DTM201-SUB002,SUB002,1,Headache,2026-03-26,2026-03-27,MILD,N,Yes,Study Drug Continued,Recovered,45,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB002,SUB002,2,Diarrhea,2026-05-25,2026-06-01,MILD,N,Yes,None,Recovering,45,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB003,SUB003,1,Fatigue,2026-05-20,2026-05-22,MODERATE,N,No,None,Recovered with Sequelae,44,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB004,SUB004,1,Vomiting,2026-01-28,2026-01-30,MILD,N,No,Medication Given,Recovering,39,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB004,SUB004,2,Nausea,2026-03-20,2026-03-25,MODERATE,N,No,Hospitalization,Not Recovered,39,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB005,SUB005,1,Hypoglycemia,2026-01-27,2026-01-31,MODERATE,N,No,None,Recovering,72,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB009,SUB009,1,Vomiting,2026-03-17,2026-03-21,MILD,N,No,Hospitalization,Recovered with Sequelae,56,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB010,SUB010,1,Abdominal Pain,2026-05-13,2026-05-20,MILD,N,No,Hospitalization,Not Recovered,58,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB012,SUB012,1,Back Pain,2026-03-26,2026-03-29,MILD,N,No,Medication Given,Recovering,59,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB015,SUB015,1,Diarrhea,2026-01-27,2026-02-01,MILD,N,No,None,Recovered,58,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB016,SUB016,1,Upper Respiratory Infection,2026-03-29,2026-04-08,SEVERE,N,No,Dose Interrupted,Not Recovered,51,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB018,SUB018,1,Abdominal Pain,2026-02-02,2026-02-06,MILD,N,Yes,None,Recovering,66,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB018,SUB018,2,Back Pain,2026-05-15,2026-05-20,MILD,N,Yes,Study Drug Continued,Recovered with Sequelae,66,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB019,SUB019,1,Fatigue,2026-03-16,2026-03-23,MILD,N,No,None,Recovered,30,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB022,SUB022,1,Nausea,2026-02-02,2026-02-03,MODERATE,N,No,Dose Interrupted,Recovered with Sequelae,66,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB024,SUB024,1,Headache,2026-03-22,2026-03-26,MILD,N,No,Medication Given,Recovered,63,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB025,SUB025,1,Dizziness,2026-03-29,2026-03-31,MILD,N,Yes,Dose Interrupted,Recovered with Sequelae,33,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB026,SUB026,1,Abdominal Pain,2026-03-15,2026-03-22,MILD,N,No,Medication Given,Recovering,32,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB027,SUB027,1,Fatigue,2026-01-25,2026-02-02,MODERATE,N,No,None,Recovered with Sequelae,52,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB027,SUB027,2,Hypoglycemia,2026-05-14,2026-05-23,MILD,N,No,None,Recovering,52,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB029,SUB029,1,Nausea,2026-02-02,2026-02-07,MODERATE,N,Yes,None,Recovered,61,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB029,SUB029,2,Diarrhea,2026-03-22,2026-04-01,MODERATE,N,Yes,Medication Given,Recovered with Sequelae,61,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB030,SUB030,1,Headache,2026-01-29,2026-02-03,MILD,N,No,Medication Given,Recovering,33,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB031,SUB031,1,Headache,2026-01-20,2026-01-29,MODERATE,N,No,Dose Interrupted,Recovered with Sequelae,46,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB031,SUB031,2,Fatigue,2026-03-24,2026-03-25,MILD,N,Yes,None,Not Recovered,46,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB033,SUB033,1,Diarrhea,2026-03-23,2026-03-30,MILD,N,No,None,Recovered with Sequelae,31,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB034,SUB034,1,Hypoglycemia,2026-01-30,2026-02-05,MODERATE,N,No,Dose Interrupted,Recovered,68,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB036,SUB036,1,Abdominal Pain,2026-01-24,2026-01-27,SEVERE,Y,Yes,Hospitalization,Not Recovered,65,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB036,SUB036,2,Hypoglycemia,2026-05-26,2026-05-30,MILD,N,No,Study Drug Continued,Recovering,65,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB044,SUB044,1,Abdominal Pain,2026-01-23,2026-01-31,MODERATE,N,Yes,Hospitalization,Recovering,18,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB044,SUB044,2,Upper Respiratory Infection,2026-05-08,2026-05-10,MILD,N,No,Study Drug Continued,Recovered with Sequelae,18,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB050,SUB050,1,Dizziness,2026-03-20,2026-03-27,MODERATE,N,Yes,Hospitalization,Not Recovered,75,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB056,SUB056,1,Back Pain,2026-03-26,2026-03-29,MILD,N,Yes,Medication Given,Recovering,59,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB058,SUB058,1,Nausea,2026-01-27,2026-01-31,MODERATE,N,No,None,Recovering,24,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB058,SUB058,2,Nausea,2026-05-12,2026-05-20,MILD,N,Yes,Medication Given,Not Recovered,24,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB061,SUB061,1,Hypoglycemia,2026-01-23,2026-01-25,MODERATE,N,No,None,Recovered,50,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB061,SUB061,2,Upper Respiratory Infection,2026-05-18,2026-05-19,MODERATE,N,Yes,Medication Given,Recovered with Sequelae,50,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB069,SUB069,1,Diarrhea,2026-03-20,2026-03-27,MILD,N,No,Hospitalization,Not Recovered,67,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB071,SUB071,1,Abdominal Pain,2026-05-23,2026-05-28,SEVERE,N,Yes,None,Recovering,57,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB072,SUB072,1,Vomiting,2026-05-09,2026-05-10,MILD,N,No,Hospitalization,Recovered,75,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB073,SUB073,1,Back Pain,2026-05-09,2026-05-14,MILD,N,Yes,Hospitalization,Recovered,67,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB074,SUB074,1,Nausea,2026-03-31,2026-04-05,SEVERE,Y,No,Study Drug Continued,Recovering,33,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB077,SUB077,1,Back Pain,2026-05-08,2026-05-15,MODERATE,N,No,None,Recovering,42,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB078,SUB078,1,Abdominal Pain,2026-03-20,2026-03-25,MODERATE,N,No,Hospitalization,Recovered,52,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB079,SUB079,1,Abdominal Pain,2026-03-18,2026-03-23,MODERATE,N,No,Medication Given,Recovered with Sequelae,45,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB081,SUB081,1,Abdominal Pain,2026-01-29,2026-02-04,MILD,N,Yes,Study Drug Continued,Recovered,54,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB085,SUB085,1,Hypoglycemia,2026-03-15,2026-03-21,MILD,N,No,Hospitalization,Recovered,66,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB086,SUB086,1,Back Pain,2026-01-27,2026-02-06,MILD,N,No,Dose Interrupted,Not Recovered,54,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB086,SUB086,2,Back Pain,2026-03-22,2026-03-30,MILD,N,No,Study Drug Continued,Recovering,54,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB095,SUB095,1,Upper Respiratory Infection,2026-03-28,2026-04-04,SEVERE,N,No,Dose Interrupted,Recovered with Sequelae,35,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB095,SUB095,2,Nausea,2026-05-26,2026-06-01,MODERATE,N,No,Study Drug Continued,Recovered with Sequelae,35,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB096,SUB096,1,Abdominal Pain,2026-05-16,2026-05-22,MODERATE,N,No,Medication Given,Recovered with Sequelae,39,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB101,SUB101,1,Upper Respiratory Infection,2026-05-10,2026-05-20,MILD,N,Yes,Study Drug Continued,Recovering,39,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB103,SUB103,1,Abdominal Pain,2026-03-27,2026-04-02,MILD,N,No,Medication Given,Recovered with Sequelae,64,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB103,SUB103,2,Nausea,2026-05-20,2026-05-28,MILD,N,No,Study Drug Continued,Not Recovered,64,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB104,SUB104,1,Headache,2026-01-28,2026-02-02,MILD,N,No,None,Recovered with Sequelae,36,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB106,SUB106,1,Nausea,2026-03-24,2026-03-27,MODERATE,N,No,Hospitalization,Recovering,54,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB106,SUB106,2,Vomiting,2026-05-25,2026-05-31,MILD,N,Yes,Dose Interrupted,Not Recovered,54,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB109,SUB109,1,Back Pain,2026-05-25,2026-05-27,MILD,N,No,Medication Given,Recovered with Sequelae,46,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB110,SUB110,1,Headache,2026-01-23,2026-01-31,MILD,N,No,Medication Given,Recovering,58,YEARS,F,PBO,Placebo,Placebo
+DTM201,DTM201-SUB111,SUB111,1,Back Pain,2026-03-14,2026-03-19,MILD,N,Yes,Study Drug Continued,Recovering,46,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB113,SUB113,1,Back Pain,2026-03-24,2026-03-28,MILD,N,Yes,Medication Given,Recovered,45,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB114,SUB114,1,Nausea,2026-01-24,2026-01-28,MODERATE,N,No,None,Recovering,68,YEARS,F,DRUG,Drug,Drug
+DTM201,DTM201-SUB117,SUB117,1,Vomiting,2026-01-20,2026-01-23,MILD,N,Yes,None,Recovering,66,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB118,SUB118,1,Upper Respiratory Infection,2026-01-17,2026-01-20,MILD,N,No,Hospitalization,Recovered with Sequelae,51,YEARS,M,DRUG,Drug,Drug
+DTM201,DTM201-SUB120,SUB120,1,Upper Respiratory Infection,2026-01-31,2026-02-07,MODERATE,N,No,Hospitalization,Recovered,44,YEARS,M,PBO,Placebo,Placebo
+DTM201,DTM201-SUB120,SUB120,2,Abdominal Pain,2026-05-16,2026-05-26,MILD,N,No,Study Drug Continued,Not Recovered,44,YEARS,M,PBO,Placebo,Placebo
